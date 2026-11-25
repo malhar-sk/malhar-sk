@@ -16,8 +16,8 @@ evaluation numbers, its tests in CI, and an honest list of what was not verified
 
 ## What I work with
 
-**AI:** LoRA fine-tuning (PEFT/TRL), RAG with pgvector, LangGraph, MCP, tool calling, eval design (RAGAS, held-out OOD sets)
-**Infra:** Docker / Podman, VictoriaMetrics, Grafana, OpenTelemetry, Kafka, MQTT, n8n, GitHub Actions
-**Languages:** Python, Go, SQL
+- **AI:** LoRA fine-tuning (PEFT/TRL), RAG with pgvector, LangGraph, MCP, tool calling, eval design (RAGAS, held-out OOD sets)
+- **Infra:** Docker / Podman, VictoriaMetrics, Grafana, OpenTelemetry, Kafka, MQTT, n8n, GitHub Actions
+- **Languages:** Python, Go, SQL
 
 All project data is synthetic or public, and each README says which.
