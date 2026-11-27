@@ -2,7 +2,7 @@
 
 I'm a third-year Computer Science student in Pune, working my way into systems engineering and quality assurance.
 My way of learning is to build the kind of systems that need testing most right now (AI agents, payment pipelines,
-device fleets) and then try hard to break them. Every project here comes with its tests, its numbers, and an honest
+device fleets) and then try to open them up and see how they tick. Every project here comes with its tests, its numbers, and an honest
 note about what I haven't verified.
 
 ## What I've been building
